@@ -9,7 +9,7 @@ namespace Docfx
     public class Math
     {
         // Adds two integers and returns the result
-        /// <summary>
+        /// <summary> 
         /// Adds two integers and returns the result.
         /// </summary>
         /// <returns>
