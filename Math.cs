@@ -18,7 +18,7 @@ namespace Docfx
         /// <example>
         /// <code>
         /// int c = Math.Add(4, 5);
-        /// if (c > 10)
+        /// if (c > 10) 
         /// {
         ///     Console.WriteLine(c);
         /// }
