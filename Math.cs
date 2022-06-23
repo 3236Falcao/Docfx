@@ -16,7 +16,7 @@ namespace Docfx
         /// The sum of two integers.
         /// </returns>
         /// <example>
-        /// <code>
+        /// <code> 
         /// int c = Math.Add(4, 5);
         /// if (c > 10) 
         /// {
