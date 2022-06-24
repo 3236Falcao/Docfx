@@ -30,6 +30,6 @@ Projeto criado para aprender a fazer documentação com o Docfx
 
 ![image](https://user-images.githubusercontent.com/69947504/175540978-bc06c14d-8f2c-498e-8d98-0632890f25aa.png)
 
-![image](https://user-images.githubusercontent.com/69947504/175541114-974e4e35-c0f6-447d-96bf-8f4a0fa275f0.png)
+![image](https://user-images.githubusercontent.com/69947504/175542011-1a1f028d-d172-46b9-9706-64148e2fc672.png)
 
 
