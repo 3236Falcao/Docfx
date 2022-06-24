@@ -1,6 +1,8 @@
 # Docfx
 
-Projeto criado para aprender a fazer documentação com o Docfx
+Projeto criado para aprender a fazer documentação com o Docfx.
+
+DocFX é um gerador de documentação de API para .NET, que atualmente suporta C#, VB e F#. Ele gera a documentação de referência da API a partir de comentários de barra tripla em seu código-fonte. Ele também permite que você use arquivos Markdown para criar tópicos adicionais, como tutoriais e instruções, e personalizar a documentação de referência gerada. O DocFX cria um site HTML estático a partir de seu código-fonte e arquivos Markdown, que podem ser facilmente hospedados em qualquer servidor web (por exemplo, github.io ). Além disso, o DocFX oferece a flexibilidade de personalizar o layout e o estilo do seu site por meio de modelos. Se você estiver interessado em criar seu próprio site com seus próprios estilos, você pode seguir como criar um modelo personalizadopara criar modelos personalizados.
 
 # Para acessar a documentação:
 
