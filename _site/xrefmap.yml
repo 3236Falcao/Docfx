@@ -7,6 +7,122 @@ references:
   commentId: N:Docfx
   fullName: Docfx
   nameWithType: Docfx
+- uid: Docfx.Calculos
+  name: Calculos
+  href: api/Docfx.Calculos.html
+  commentId: T:Docfx.Calculos
+  fullName: Docfx.Calculos
+  nameWithType: Calculos
+- uid: Docfx.Calculos.AdicionaNumeroList(System.Collections.Generic.List{System.String})
+  name: AdicionaNumeroList(List<String>)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_AdicionaNumeroList_System_Collections_Generic_List_System_String__
+  commentId: M:Docfx.Calculos.AdicionaNumeroList(System.Collections.Generic.List{System.String})
+  name.vb: AdicionaNumeroList(List(Of String))
+  fullName: Docfx.Calculos.AdicionaNumeroList(System.Collections.Generic.List<System.String>)
+  fullName.vb: Docfx.Calculos.AdicionaNumeroList(System.Collections.Generic.List(Of System.String))
+  nameWithType: Calculos.AdicionaNumeroList(List<String>)
+  nameWithType.vb: Calculos.AdicionaNumeroList(List(Of String))
+- uid: Docfx.Calculos.AdicionaNumeroList*
+  name: AdicionaNumeroList
+  href: api/Docfx.Calculos.html#Docfx_Calculos_AdicionaNumeroList_
+  commentId: Overload:Docfx.Calculos.AdicionaNumeroList
+  isSpec: "True"
+  fullName: Docfx.Calculos.AdicionaNumeroList
+  nameWithType: Calculos.AdicionaNumeroList
+- uid: Docfx.Calculos.ChamarMetodos(System.Collections.Generic.List{System.String})
+  name: ChamarMetodos(List<String>)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_ChamarMetodos_System_Collections_Generic_List_System_String__
+  commentId: M:Docfx.Calculos.ChamarMetodos(System.Collections.Generic.List{System.String})
+  name.vb: ChamarMetodos(List(Of String))
+  fullName: Docfx.Calculos.ChamarMetodos(System.Collections.Generic.List<System.String>)
+  fullName.vb: Docfx.Calculos.ChamarMetodos(System.Collections.Generic.List(Of System.String))
+  nameWithType: Calculos.ChamarMetodos(List<String>)
+  nameWithType.vb: Calculos.ChamarMetodos(List(Of String))
+- uid: Docfx.Calculos.ChamarMetodos*
+  name: ChamarMetodos
+  href: api/Docfx.Calculos.html#Docfx_Calculos_ChamarMetodos_
+  commentId: Overload:Docfx.Calculos.ChamarMetodos
+  isSpec: "True"
+  fullName: Docfx.Calculos.ChamarMetodos
+  nameWithType: Calculos.ChamarMetodos
+- uid: Docfx.Calculos.DividirNumeros(System.Int32,System.Int32)
+  name: DividirNumeros(Int32, Int32)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_DividirNumeros_System_Int32_System_Int32_
+  commentId: M:Docfx.Calculos.DividirNumeros(System.Int32,System.Int32)
+  fullName: Docfx.Calculos.DividirNumeros(System.Int32, System.Int32)
+  nameWithType: Calculos.DividirNumeros(Int32, Int32)
+- uid: Docfx.Calculos.DividirNumeros*
+  name: DividirNumeros
+  href: api/Docfx.Calculos.html#Docfx_Calculos_DividirNumeros_
+  commentId: Overload:Docfx.Calculos.DividirNumeros
+  isSpec: "True"
+  fullName: Docfx.Calculos.DividirNumeros
+  nameWithType: Calculos.DividirNumeros
+- uid: Docfx.Calculos.Inicio
+  name: Inicio()
+  href: api/Docfx.Calculos.html#Docfx_Calculos_Inicio
+  commentId: M:Docfx.Calculos.Inicio
+  fullName: Docfx.Calculos.Inicio()
+  nameWithType: Calculos.Inicio()
+- uid: Docfx.Calculos.Inicio*
+  name: Inicio
+  href: api/Docfx.Calculos.html#Docfx_Calculos_Inicio_
+  commentId: Overload:Docfx.Calculos.Inicio
+  isSpec: "True"
+  fullName: Docfx.Calculos.Inicio
+  nameWithType: Calculos.Inicio
+- uid: Docfx.Calculos.MultiplicarNumeros(System.Int32,System.Int32)
+  name: MultiplicarNumeros(Int32, Int32)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_MultiplicarNumeros_System_Int32_System_Int32_
+  commentId: M:Docfx.Calculos.MultiplicarNumeros(System.Int32,System.Int32)
+  fullName: Docfx.Calculos.MultiplicarNumeros(System.Int32, System.Int32)
+  nameWithType: Calculos.MultiplicarNumeros(Int32, Int32)
+- uid: Docfx.Calculos.MultiplicarNumeros*
+  name: MultiplicarNumeros
+  href: api/Docfx.Calculos.html#Docfx_Calculos_MultiplicarNumeros_
+  commentId: Overload:Docfx.Calculos.MultiplicarNumeros
+  isSpec: "True"
+  fullName: Docfx.Calculos.MultiplicarNumeros
+  nameWithType: Calculos.MultiplicarNumeros
+- uid: Docfx.Calculos.SomarNumeros(System.Int32,System.Int32)
+  name: SomarNumeros(Int32, Int32)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SomarNumeros_System_Int32_System_Int32_
+  commentId: M:Docfx.Calculos.SomarNumeros(System.Int32,System.Int32)
+  fullName: Docfx.Calculos.SomarNumeros(System.Int32, System.Int32)
+  nameWithType: Calculos.SomarNumeros(Int32, Int32)
+- uid: Docfx.Calculos.SomarNumeros*
+  name: SomarNumeros
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SomarNumeros_
+  commentId: Overload:Docfx.Calculos.SomarNumeros
+  isSpec: "True"
+  fullName: Docfx.Calculos.SomarNumeros
+  nameWithType: Calculos.SomarNumeros
+- uid: Docfx.Calculos.SomaValoresArray
+  name: SomaValoresArray()
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SomaValoresArray
+  commentId: M:Docfx.Calculos.SomaValoresArray
+  fullName: Docfx.Calculos.SomaValoresArray()
+  nameWithType: Calculos.SomaValoresArray()
+- uid: Docfx.Calculos.SomaValoresArray*
+  name: SomaValoresArray
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SomaValoresArray_
+  commentId: Overload:Docfx.Calculos.SomaValoresArray
+  isSpec: "True"
+  fullName: Docfx.Calculos.SomaValoresArray
+  nameWithType: Calculos.SomaValoresArray
+- uid: Docfx.Calculos.SubtrairNumeros(System.Int32,System.Int32)
+  name: SubtrairNumeros(Int32, Int32)
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SubtrairNumeros_System_Int32_System_Int32_
+  commentId: M:Docfx.Calculos.SubtrairNumeros(System.Int32,System.Int32)
+  fullName: Docfx.Calculos.SubtrairNumeros(System.Int32, System.Int32)
+  nameWithType: Calculos.SubtrairNumeros(Int32, Int32)
+- uid: Docfx.Calculos.SubtrairNumeros*
+  name: SubtrairNumeros
+  href: api/Docfx.Calculos.html#Docfx_Calculos_SubtrairNumeros_
+  commentId: Overload:Docfx.Calculos.SubtrairNumeros
+  isSpec: "True"
+  fullName: Docfx.Calculos.SubtrairNumeros
+  nameWithType: Calculos.SubtrairNumeros
 - uid: Docfx.Math
   name: Math
   href: api/Docfx.Math.html

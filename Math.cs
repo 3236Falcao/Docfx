@@ -3,17 +3,16 @@
 namespace Docfx
 {
     /// <summary>
-    /// Aula de Matematica.
-    /// Contains all methods for performing basic math functions.
+    /// Classe de Matematica.
+    /// Contém todos os métodos para executar funções matemáticas básicas.
     /// </summary>
     public class Math
-    {
-        // Adds two integers and returns the result
+    {       
         /// <summary> 
-        /// Adds two integers and returns the result.
+        /// Adiciona dois inteiros e retorna o resultado.
         /// </summary>
         /// <returns>
-        /// The sum of two integers.
+        /// A soma de dois inteiros
         /// </returns>
         /// <example>
         /// <code> 
@@ -26,15 +25,15 @@ namespace Docfx
         /// </example>
         public static int Add(int a, int b)
         {
-            // If any parameter is equal to the max value of an integer
-            // and the other is greater than zero
+            // Se algum parâmetro for igual ao valor máximo de um inteiro
+            // e o outro é maior que zero
             if ((a == int.MaxValue && b > 0) || (b == int.MaxValue && a > 0))
                 throw new System.OverflowException();
 
             return a + b;
         }
 
-        // Adds two doubles and returns the result
+        // Adiciona duas duplas e retorna o resultado
         public static double Add(double a, double b)
         {
             if ((a == double.MaxValue && b > 0) || (b == double.MaxValue && a > 0))
@@ -43,5 +42,7 @@ namespace Docfx
             return a + b;
         }
     }
-        
+
 }
+
+

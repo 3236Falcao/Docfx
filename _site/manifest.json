@@ -53,11 +53,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "obj/api/Docfx.Calculos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Docfx.Calculos.html",
+          "hash": "74+eKoWnVptgRJHX4Pu5HKSCAvQRF+c2gmS+v2j3E0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "obj/api/Docfx.Math.yml",
       "output": {
         ".html": {
           "relative_path": "api/Docfx.Math.html",
-          "hash": "6WRlLJYAex44wpPIzALpWb9T7pJUl8AmnzMHBr4V9kc="
+          "hash": "BYxhULGWwl/+79NZ+5p2rzc/i2s36LYPYbwwWZh5N4Y="
         }
       },
       "is_incremental": false,
@@ -69,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Docfx.html",
-          "hash": "ZjelHi7iXw488sKgEckz8U47Yp2r1yp4SQPNdoz4TWQ="
+          "hash": "ZF4XrWiz3PWOOhCUmGn+SR4O5UUmyyJWgS8hVIQvlhE="
         }
       },
       "is_incremental": false,
@@ -81,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "qTOx7zbHJ/2EoHTeXc/UcoZybOT+6rbl8X0wLitcVnQ="
+          "hash": "IdgTsWePn5p0u+ItLcXrBGqpxtLST4GsPlIWzepL9QA="
         }
       },
       "is_incremental": false,
@@ -118,7 +130,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 1
         },
         "TocDocumentProcessor": {
